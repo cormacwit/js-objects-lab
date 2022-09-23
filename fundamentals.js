@@ -9,7 +9,6 @@ const aCar = {
     number:1058
     }
   };
-  
   console.log(aCar.owner + ' drives a ' + aCar.make)
   console.log('The cars reg no is ' + aCar.registration.year + "-" + aCar.registration.county_code + "-" + aCar.registration.number);
   
